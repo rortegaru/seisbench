@@ -3,6 +3,8 @@ import numpy as np
 import torch.nn as nn
 from seisbench.models import SeisBenchModel
 
+
+
 class ConvNQ(SeisBenchModel):
     """
     ConvNQ
